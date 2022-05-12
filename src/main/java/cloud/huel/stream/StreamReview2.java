@@ -7,7 +7,7 @@ package cloud.huel.stream;
 public class StreamReview2 {
 
 	public static void main(String[] args) {
-
+		stream();
 	}
 
 	public static void stream(){

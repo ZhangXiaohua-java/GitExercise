@@ -18,6 +18,7 @@ public class StreamReview2 {
 		System.out.println("develop分支代码合并冲突测试");
 		System.out.println("推送代码到github");
 		System.out.println("????");
+		System.out.println("idea客户端使用pull拉取最新代码");
 	}
 
 }

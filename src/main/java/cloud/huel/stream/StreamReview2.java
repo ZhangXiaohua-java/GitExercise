@@ -12,6 +12,7 @@ public class StreamReview2 {
 
 	public static void stream(){
 		System.out.println("stream1");
+		System.out.println("stream2");
 	}
 
 }
